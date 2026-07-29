@@ -1,0 +1,21 @@
+{
+  "name": "playwright_bdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@azure/identity": "^4.13.1",
+    "@azure/playwright": "^1.1.6",
+    "@cucumber/cucumber": "^12.2.0",
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^24.5.2",
+    "playwright-bdd": "^8.4.1",
+    "ts-node": "^10.9.2"
+  }
+}
